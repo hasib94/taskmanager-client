@@ -1,0 +1,44 @@
+.loginPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to right, #395380, #334260);
+}
+
+.form-auth {
+  background-color: rgba(0, 0, 0, .3);
+  padding: 25px 30px;
+  border-radius: 2px;
+  border: 1px solid rgb(25, 7, 109);
+}
+
+.form-auth .label {
+  color: #fff;
+}
+
+.input {
+  border-radius: 2px;
+  background: #eee;
+  color: #000;
+}
+
+.loginBox {
+  width: 500px;
+}
+
+.loginPage .titleMain {
+  font-size: 36px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px 30px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.regLink {
+  color: #000;
+  font-weight: 500;
+  margin-top: 10px;
+  color: #fff;
+}

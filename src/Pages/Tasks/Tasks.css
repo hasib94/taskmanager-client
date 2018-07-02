@@ -1,0 +1,23 @@
+.form-add {
+  padding: 0 30px 30px;
+  
+}
+
+.label {
+  color: #000;
+}
+
+.titleMain {
+  color: #000;
+  font-size: 36px;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.date {
+  font-size: 9px;
+  margin-left: 10px;
+  color: rgb(13, 23, 78);
+  text-transform: capitalize;
+}
